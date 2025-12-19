@@ -13,7 +13,7 @@
     },
     "dependencies": {
         "@floating-ui/dom": "^1.7.4",
-        "@tiptap/core": "^3.10.7",
+        "@tiptap/core": "^3.10.8",
         "@tiptap/extension-collaboration": "^3.10.7",
         "@tiptap/extension-drag-handle": "^3.10.7",
         "@tiptap/extension-drag-handle-react": "^3.10.7",
@@ -22,11 +22,11 @@
         "@tiptap/extension-text-align": "^3.10.7",
         "@tiptap/extension-underline": "^3.10.7",
         "@tiptap/pm": "^3.10.8",
-        "@tiptap/react": "^3.10.7",
-        "@tiptap/starter-kit": "^3.10.7",
+        "@tiptap/react": "^3.10.8",
+        "@tiptap/starter-kit": "^3.13.0",
         "@tiptap/suggestion": "^3.10.7",
         "@tiptap/y-tiptap": "^3.0.1",
-        "next": "16.0.7",
+        "next": "16.0.10",
         "react": "19.2.0",
         "react-dom": "19.2.0",
         "react-icons": "^5.5.0",
@@ -35,14 +35,14 @@
         "yjs": "^13.6.27"
     },
     "devDependencies": {
-        "@biomejs/biome": "2.3.6",
+        "@biomejs/biome": "2.3.8",
         "@tailwindcss/postcss": "^4",
-        "@types/node": "^20",
+        "@types/node": "^25",
         "@types/react": "^19",
         "@types/react-dom": "^19",
         "tailwindcss": "^4",
         "typescript": "^5",
-        "vite": "^7.2.7",
+        "vite": "^7.3.0",
         "vitest": "^4.0.15"
     }
 }
